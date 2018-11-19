@@ -1,6 +1,6 @@
 dependencies:
 - name: activiti-cloud-query
-  repository: https://activiti.github.io/activiti-cloud-charts/
+  repository: https://almerico.github.io/helmrepo/
   version: 0.1.10
   condition: application.activiti-cloud-query.enabled,activiti-cloud-query.enabled
 - name: activiti-cloud-audit
